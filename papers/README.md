@@ -2,12 +2,12 @@
 List of multilingual papers
 
 ## Table of Contents
-- [BERT](#bert)
+- [mBERT](#mbert)
 - [XLM](#xlm)
 - [Other LMs](#other-lms)
 - [Embeddings](#embeddings)
 
-## BERT
+## mBERT
 ### Properties
 - [How multilingual is Multilingual BERT?](https://arxiv.org/abs/1906.01502) (ACL2019)
 - [How Language-Neutral is Multilingual BERT?](https://arxiv.org/abs/1911.03310)
